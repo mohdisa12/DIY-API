@@ -1,1 +1,2 @@
 # DIY-API
+Create a personalized joke-fetching experience with our DIY API, built using Node.js and Express. This API allows users to retrieve jokes categorized by type, utilizing the simplicity of body-parser for seamless data parsing. Whether you're in the mood for puns, dad jokes, or one-liners, our API ensures quick and efficient delivery of laughter-inducing content. Perfect for developers looking to integrate humor into their applications with ease.
